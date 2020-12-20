@@ -34,5 +34,3 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
 * [Statements](https://github.com/professorbk/Learning-German/tree/master/Statements)
 * [Time Tracking](https://github.com/professorbk/Learning-German/tree/master/Time%20Tracking) :clock1: :clock3:
 * [Verbs](https://github.com/professorbk/Learning-German/tree/master/Verbs/Present%20Tense)
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
