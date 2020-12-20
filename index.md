@@ -1,37 +1,38 @@
-## Welcome to professorbk's Learning German page
+# Welcome to professorbk's Learning German page
 
-You can use the [editor on GitHub](https://github.com/professorbk/Learning-German/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Contribute
+Please read the [contributing guidelines](contributing.md) if you wish to contribute.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Start Today !!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/professorbk/Learning-German/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+* [Adjectives](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Adjectives)
+* [Adverbs](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Adverbs)
+* [Animals](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Animals) :dog: :rabbit: :tiger:
+* [Basic Sentences](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Basic%20Sentences)
+* [Clothing](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Clothing) :tshirt: :dress: :necktie:
+* [Colors](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Colors) :radio_button:
+* [Conversations](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Conversations)
+  + [The Bar](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Conversations/Bar) :wine_glass: :beer:
+  + [The Beach](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Conversations/Beach) :swimmer: :surfer:
+  + [The Family](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Conversations/Family) :family: 
+  + [First Meet](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Conversations/First%20Meet) :couple:
+  + [The Hotel](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Conversations/Hotel) :hotel: :bread: :pizza:
+  + [Looking For Someone](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Conversations/Looking%20For%20Someone) :couple:
+  + [Parting](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Conversations/Parting)
+  + [The Restaurant](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Conversations/Restaurant) :bread: :pizza: :beer:
+  + [The Taxi](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Conversations/Taxi) :oncoming_taxi: :taxi:
+  + [Transportation](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Conversations/Transportation) :train: :station: :bus: :ship:
+* [Essentials](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Essentials)
+* [Food](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Food) :bread: :pizza: :beer:
+* [Grammer Rules](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Grammer%20Rules)
+* [Nature](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Nature) :cherry_blossom: :tulip: :deciduous_tree:
+* [Negatives](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Negatives) :x: :no_entry_sign:
+* [Numbers](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Numbers) :1234: :one: :two: :three:
+* [Plurals](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Plurals) :two:
+* [Pronouns](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Pronouns)
+* [Questions and Statements](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Questions%20and%20Statements)
+* [Statements](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Statements)
+* [Time Tracking](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Time%20Tracking) :clock1: :clock3:
+* [Verbs](https://github.com/DipanshKhandelwal/Learning-German/tree/master/Verbs/Present%20Tense)
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
