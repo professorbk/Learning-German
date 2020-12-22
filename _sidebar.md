@@ -1,4 +1,7 @@
 * [Learning German](/README)
+* [Lessions from Menschen textbook](/Menschen Hueber/README)
+  * [Lession 1](/Menschen Hueber/Lession 1/README)
+  * [Lession 2](/Menschen Hueber/Lession 2/README)
 * [Adjectives](/Adjectives/README)
 * [Adverbs](/Adverbs/README)
 * [Animals](/Animals/README)
