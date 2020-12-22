@@ -7,13 +7,12 @@ Code of this project is forked from [this Github repository](https://github.com/
 
 Contents:
 - Specific knowledge:
-> based on [Menschen textbooks](https://www.hueber.de/menschen) of [Hueber](https://www.hueber.de/)
+based on [Menschen textbooks](https://www.hueber.de/menschen) of [Hueber](https://www.hueber.de/)
 - Gerneral knowledge:
-> Legacy contents: will be kept and updated
+  - Legacy contents: will be kept and updated
 - Purpose:
-> Self-revise, self-evalutate
-
-> Prepare for German test
+  - Self-revise, self-evalutate
+  - Prepare for German tests
 
 ## Contribute
 Please read the [contributing guidelines](contributing.md) if you wish to contribute.
