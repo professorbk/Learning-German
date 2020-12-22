@@ -1,4 +1,19 @@
 # Learning German
+
+## Overview
+
+This is the journey of [professorbk](https://professorbk.github.io/) to conquer the German language.
+Codes of this project is forked from [this](https://github.com/DipanshKhandelwal/Learning-German).
+
+Contents:
+- Specific knowledge:
+> based on [Menschen textbooks](https://www.hueber.de/menschen) of [Hueber](https://www.hueber.de/)
+- Gerneral knowledge:
+> Legacy contents: will be kept and updated
+- Purpose:
+> Self-revise, self-evalutate
+> Prepare for German test
+
 ## Contribute
 Please read the [contributing guidelines](contributing.md) if you wish to contribute.
 
