@@ -1,5 +1,6 @@
-# Grammatik
-## Verbkonjugation Singular
+# Lession 1
+## Grammatik
+### Verbkonjugation Singular
 <table>
     <tr>
         <th></th> <th>kommen</th> <th>heißen</th> <th>sein</th>
@@ -18,7 +19,7 @@
     </tr>
 </table>
 
-## W-Fragen
+### W-Fragen
 wer, wie, woher
 <table>
     <tr>
@@ -35,4 +36,4 @@ wer, wie, woher
     </tr>
 </table>
 
-# Kommunikation
+## Kommunikation
