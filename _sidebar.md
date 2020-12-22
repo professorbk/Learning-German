@@ -1,5 +1,6 @@
 * [Learning German](/README)
 * [Lessions from Menschen textbook](/Menschen/Lession_1/README)
+  * [Vocabulary from Memrise](/Menschen/Vocabulary/README)
   * [Lession 1](/Menschen/Lession_1/README)
   * [Lession 2](/Menschen/Lession_2/README)
 * [Adjectives](/Adjectives/README)
