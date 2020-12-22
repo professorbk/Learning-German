@@ -2,8 +2,8 @@
 
 ## Overview
 
-This is the journey of [professorbk](https://professorbk.github.io/) to conquer the German language.
-Codes of this project is forked from [this](https://github.com/DipanshKhandelwal/Learning-German).
+The journey to conquer the German language, maintained by [professorbk](https://professorbk.github.io/).
+Code of this project is forked from [this Github repository](https://github.com/DipanshKhandelwal/Learning-German).
 
 Contents:
 - Specific knowledge:
