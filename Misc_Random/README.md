@@ -9,5 +9,8 @@
         <td>neither here or there</td>
         <td>weder hier noch dort</td>
     </tr>
-  
+    <tr>
+        <td>Love at first sight</td>
+        <td>Liebe auf den ersten Blick</td>
+    </tr>  
 </table>
