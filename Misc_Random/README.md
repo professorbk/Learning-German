@@ -12,5 +12,9 @@
     <tr>
         <td>Love at first sight</td>
         <td>Liebe auf den ersten Blick</td>
-    </tr>  
+    </tr>
+    <tr>
+        <td>I was in love</td>
+        <td>Ich war verliebt</td>
+    </tr>
 </table>
