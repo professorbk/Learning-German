@@ -10,7 +10,9 @@ Contents:
 based on [Menschen textbooks](https://www.hueber.de/menschen) of [Hueber](https://www.hueber.de/)
 - Gerneral knowledge:
   - Legacy contents: from [original project](https://github.com/DipanshKhandelwal/Learning-German), will be kept and updated
-- Purpose:
+- Objectives:
+  - Be short, be fun, be humorous (dark humors are highly appreciated)
+  - Be able to use practical, real life German
   - Self-revise, self-evalutate
   - Prepare for German tests
 
