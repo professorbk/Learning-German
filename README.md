@@ -27,7 +27,7 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
 * [Basic Sentences](https://github.com/professorbk/Learning-German/tree/master/Basic_Sentences)
 * [Clothing](https://github.com/professorbk/Learning-German/tree/master/Clothing) :tshirt: :dress: :necktie:
 * [Colors](https://github.com/professorbk/Learning-German/tree/master/Colors) :radio_button:
-* [Conversations](https://github.com/professorbk/Learning-German/tree/master/Conversations) :speaking_head:
+* [Conversations](https://github.com/professorbk/Learning-German/tree/master/Conversations) :loudspeaker:
   + [The Bar](https://github.com/professorbk/Learning-German/tree/master/Conversations/Bar) :wine_glass: :beer:
   + [The Beach](https://github.com/professorbk/Learning-German/tree/master/Conversations/Beach) :swimmer: :surfer:
   + [The Family](https://github.com/professorbk/Learning-German/tree/master/Conversations/Family) :family: 
@@ -49,5 +49,5 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
 * [Questions and Statements](https://github.com/professorbk/Learning-German/tree/master/Questions_and_Statements)
 * [Statements](https://github.com/professorbk/Learning-German/tree/master/Statements)
 * [Time Tracking](https://github.com/professorbk/Learning-German/tree/master/Time_Tracking) :clock1: :clock3:
-* [Verbs](https://github.com/professorbk/Learning-German/tree/master/Verbs/Present_Tense) :woman_cartwheeling:
-* [Misc & Random](https://github.com/professorbk/Learning-German/tree/master/Misc_Random) :clown_face:
+* [Verbs](https://github.com/professorbk/Learning-German/tree/master/Verbs/Present_Tense) :running:
+* [Misc & Random](https://github.com/professorbk/Learning-German/tree/master/Misc_Random) :trollface:
