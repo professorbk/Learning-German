@@ -9,7 +9,7 @@
 
 |  | (Approximate) Pronunciation | Example
 |---|---|---|
-| e	</br> ä </br> i| *ɛ* in get / gɛt / </br> *ɛ* in *melon* / ˈmɛlən / </br> *i* in ivor / ˈi vər / | wenn (if, when), fett (fat) </br> ähnlich (similar), gähnen (to yawn) </br> ich, bitte
+| e	</br> ä </br> i| *ɛ* in *get* / gɛt / </br> *ɛ* in *melon* / ˈmɛlən / </br> *i* in *ivor* / ˈi vər / | wenn (if, when), fett (fat) </br> ähnlich (similar), gähnen (to yawn) </br> ich, bitte
 | ö | *ɜ* in *girl* (gɜːl) | Österreich (Austria), der Löwe (lion) |
 | ü | no equivalent nor approximate sound in English | über (over), müde (tired) 
 | ß | (esszet)	double s sound | heiß (hot),die Straße (street) |
