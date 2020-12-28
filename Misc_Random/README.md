@@ -42,6 +42,14 @@
         <td>gute Freundin <br/> enger Freund</td>
     </tr>
     <tr>
+        <td> <i><b>contexts do matter in German</b><i/> </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td> That is a friend (platonic) <br/> That is my boyfriend <br/> That is my friend/girlfriend Laura (unclear if Laura is a platonic friend, or a girlfriend) <br/> That is my friend/girlfriend from Munich (most of the time, "friend" is applied here, unless you are known as a player with several girlfriends :trollface: ) </td>
+        <td> Das ist ein Freund <br/> Das ist mein Freund <br/> Das ist meine Freundin Laura <br/> Das ist meine Freundin Laura aus München </td>
+    </tr>
+    <tr>
         <td>etc</td>
         <td>usw</td>
     </tr>
