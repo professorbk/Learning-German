@@ -51,7 +51,7 @@
     </tr>
     <tr>
         <td>So now you have a lot of German to nibble on</td>
-        <td>So, jetzt hast du viel Deutsch zum dran knabbern 
+        <td>So, jetzt hast du viel Deutsch zum dran Knabbern 
 </td>
     </tr>
 </table>
