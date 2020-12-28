@@ -10,12 +10,49 @@
         <td>weder hier noch dort</td>
     </tr>
     <tr>
+        <td>Liebeskummer</td>
+        <td>Lovesickness</td>
+    </tr>
+    <tr>
         <td>Love at first sight</td>
         <td>Liebe auf den ersten Blick</td>
     </tr>
     <tr>
         <td>I was in love</td>
         <td>Ich war verliebt</td>
+    </tr>
+    <tr>
+        <td>Na ja aber das ist sehr verallgemeinernd</td>
+        <td> Well, that's very generalizing</td>
+    </tr>
+    <tr>
+        <td>Every person is a little different (from each other) / it depends on each person</td>
+        <td>Jede Person ist ja ein bisschen anders</td>
+    </tr>
+    <tr>
+        <td>American are like peach. German are like coconut</td>
+        <td>Amerikaner sind wie pfirsich. Deutsch sind vir kokosnuss</td>
+    </tr>
+    <tr>
+        <td>Bekannte/r <br/> Mitschüler/in  <br/> Kommilitone/in <br/> Freund eines Freundes </td>
+        <td>Aquaintance <br/> Classmate below university level <br/>  friend of a friend </td>
+    </tr>
+    <tr>
+        <td>good friend <br/> close friend</td>
+        <td>gute Freundin <br/> enger Freund</td>
+    </tr>
+    <tr>
+        <td>etc</td>
+        <td>usw</td>
+    </tr>
+    <tr>
+        <td>"Freund" in German would not correspond to "friend" in English but rather "close friend"</td>
+        <td>"Freund" auf Deutsch entspräche demnach nicht "friend" auf Englisch sondern eher "close friend"</td>
+    </tr>
+    <tr>
+        <td>So now you have a lot of German to nibble on</td>
+        <td>So, jetzt hast du viel Deutsch zum dran knabbern 
+</td>
     </tr>
 </table>
 
