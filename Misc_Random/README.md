@@ -66,6 +66,9 @@
 
 ## Grammar
 ### Dative vs Accusative
+
+[The difference between accusative and dative in German](https://blog.lingoda.com/en/accusative-dative-german/)
+
 [Akkusativ and Dativ Pronouns](https://aminoapps.com/c/language-exchange/page/blog/german-lesson-6-akkusativ-and-dativ-pronouns/42B1_jg4tYu2MnB0LjEYb2qgkladr2orBr7)
 ![](https://pm1.narvii.com/6933/7d50ebd99cfbddeea3eb131a4955b1bfdba9fbe9r1-862-892v2_hq.jpg "Akkusativ and Dativ Pronouns")
 
