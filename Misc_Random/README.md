@@ -65,6 +65,11 @@
 </table>
 
 ## Grammar
+
+### Cheatsheet
+
+[German grammar cheat sheet for beginners](https://germanwordoftheday.de/printable-german-grammar-cheatsheet-for-beginners/)
+
 ### Dative vs Accusative
 
 [The difference between accusative and dative in German](https://blog.lingoda.com/en/accusative-dative-german/)
