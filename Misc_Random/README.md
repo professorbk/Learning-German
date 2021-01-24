@@ -68,6 +68,8 @@
 
 ### Cheatsheet
 
+[Cheatsheets](https://cheatography.com/tag/german/)
+
 [German grammar cheat sheet for beginners](https://germanwordoftheday.de/printable-german-grammar-cheatsheet-for-beginners/)
 
 [Deutsch A1 Cheat Sheet](https://cheatography.com/bolatsevde/cheat-sheets/deutsch-a1/pdf/)
