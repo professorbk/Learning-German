@@ -74,6 +74,10 @@
 
 [Deutsch A1 Cheat Sheet](https://cheatography.com/bolatsevde/cheat-sheets/deutsch-a1/pdf/)
 
+### Exercises
+
+[German Grammar with Rules and Interactive Exercises](https://deutsch.lingolia.com/en/grammar)
+
 ### Dative vs Accusative
 
 [The difference between accusative and dative in German](https://blog.lingoda.com/en/accusative-dative-german/)
