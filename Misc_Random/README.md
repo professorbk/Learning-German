@@ -70,6 +70,8 @@
 
 [German grammar cheat sheet for beginners](https://germanwordoftheday.de/printable-german-grammar-cheatsheet-for-beginners/)
 
+[Deutsch A1 Cheat Sheet](https://cheatography.com/bolatsevde/cheat-sheets/deutsch-a1/pdf/)
+
 ### Dative vs Accusative
 
 [The difference between accusative and dative in German](https://blog.lingoda.com/en/accusative-dative-german/)
