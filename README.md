@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/323076108.svg)](https://zenodo.org/badge/latestdoi/323076108)
+
 # Learning German
 
 ## Overview
